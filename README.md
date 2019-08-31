@@ -5,5 +5,5 @@ Regression Tree, Random Forests, XGBoost and Neural Networks using R and Mxnet.
 Proved that the Neural Network Model is the most efficient with a margin of 12.5%
 improvement in accuracy in comparison to other models.
 
-CV - with Cross Validation \n
+CV - with Cross Validation\
 WCV - without Cross Validation
